@@ -1,2 +1,2 @@
-pkg install git -y && pkg install python -y && pkg install openssl -y && git clone https://github.com/cat-bucket/cat-osint && cd cat-osint && pip install -r requirements.txt && python easy.py 
+安装GIT-Y&AP;&;PKG安装PKT-Y&MP&MP;PKG安装开放SSL-Y&MP;GIT克隆HTPS://JUTUT.com/CAT-BUBIT/CAT-OPS;&AP;CD光盘和PIP安装-R要求。别紧张。
 
